@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://igra-dinozavrik.github.io/sitemap_index.xml
